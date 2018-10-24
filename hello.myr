@@ -1,0 +1,4 @@
+use std
+const main = {
+  std.put("Hello, world\n")
+}
